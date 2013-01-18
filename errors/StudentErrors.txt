@@ -1,0 +1,1281 @@
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Snape          Serverus            
+234567       is already in data base.
+          ---------                       ----------    
+Granger        Hermione            
+345678       is already in data base.
+          ---------                       ----------    
+Riddle         Tom                 
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Snape          Serverus            
+234567       is already in data base.
+          ---------                       ----------    
+Granger        Hermione            
+345678       is already in data base.
+          ---------                       ----------    
+Riddle         Tom                 
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Snape          Serverus            
+234567       is already in data base.
+          ---------                       ----------    
+Granger        Hermione            
+345678       is already in data base.
+          ---------                       ----------    
+Riddle         Tom                 
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Snape          Serverus            
+234567       is already in data base.
+          ---------                       ----------    
+Granger        Hermione            
+345678       is already in data base.
+          ---------                       ----------    
+Riddle         Tom                 
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Snape          Serverus            
+234567       is already in data base.
+          ---------                       ----------    
+Granger        Hermione            
+345678       is already in data base.
+          ---------                       ----------    
+Riddle         Tom                 
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Wriggle        Nightbug            
+129724       is already in data base.
+          ---------                       ----------    
+Mystia         Lorelei             
+907121       is already in data base.
+          ---------                       ----------    
+Keine          Kamishirasawa       
+012424       is already in data base.
+          ---------                       ----------    
+Tewi           Inaba               
+129487       is already in data base.
+          ---------                       ----------    
+Reisen-UdongeinInaba               
+124971       is already in data base.
+          ---------                       ----------    
+Eirin          Yagokoro            
+329587       is already in data base.
+          ---------                       ----------    
+Kaguya         Houraisan           
+325897       is already in data base.
+          ---------                       ----------    
+Keine          EX                  
+666666       is already in data base.
+          ---------                       ----------    
+Fujiwara-no    Mokou               
+100000       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Hisoka         Spider              
+555555       is already in data base.
+          ---------                       ----------    
+Sirius         Black               
+023456       is already in data base.
+          ---------                       ----------    
+enCiel         L'arc               
+034567       is already in data base.
+          ---------                       ----------    
+Harry          Potter              
+123456       is already in data base.
+          ---------                       ----------    
+Serverus       Snape               
+234567       is already in data base.
+          ---------                       ----------    
+Hermione       Granger             
+345678       is already in data base.
+          ---------                       ----------    
+Tom            Riddle              
+456789       is already in data base.
+          ---------                       ----------    
+Voldemort      Lord                
+567890       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    
+Bellatrix      Lestrange           
+333333       is already in data base.
+          ---------                       ----------    
+Reimu          Hakurei             
+102938       is already in data base.
+          ---------                       ----------    
+Marisa         Kirisame            
+475638       is already in data base.
+          ---------                       ----------    
+Hong           Meilin              
+236243       is already in data base.
+          ---------                       ----------    
+Patchouli      Knowledge           
+235264       is already in data base.
+          ---------                       ----------    
+Sakuya         Izayoi              
+325453       is already in data base.
+          ---------                       ----------    
+Remillia       Scarlet             
+353253       is already in data base.
+          ---------                       ----------    
+Flandre        Scarlet             
+345235       is already in data base.
+          ---------                       ----------    
+Letty          Whiterock           
+568567       is already in data base.
+          ---------                       ----------    
+Alice          Margatroid          
+325234       is already in data base.
+          ---------                       ----------    
+Lunasa         Prismriver          
+756754       is already in data base.
+          ---------                       ----------    
+Merlin         Prismriver          
+504347       is already in data base.
+          ---------                       ----------    
+Lyrica         Prismriver          
+436324       is already in data base.
+          ---------                       ----------    
+Youmu          Konpaku             
+234344       is already in data base.
+          ---------                       ----------    
+Yuyuko         Saigyouji           
+363212       is already in data base.
+          ---------                       ----------    
+Ran            Yakumo              
+123097       is already in data base.
+          ---------                       ----------    
+Yukari         Yakumo              
+124122       is already in data base.
+          ---------                       ----------    
+Luna           Lovegood            
+222222       is already in data base.
+          ---------                       ----------    
+Lucius         Malfoy              
+444444       is already in data base.
+          ---------                       ----------    

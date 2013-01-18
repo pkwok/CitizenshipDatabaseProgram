@@ -1,0 +1,7 @@
+100000      Mokou               Fujiwara-no         70  
+124971      Inaba               Reisen-Udongein     50  
+129487      Inaba               Tewi                45  
+325897      Houraisan           Kaguya              60  
+329587      Yagokoro            Eirin               60  
+444444      Malfoy              Lucius              44  
+666666      EX                  Keine               65  
